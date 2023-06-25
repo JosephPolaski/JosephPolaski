@@ -2,10 +2,10 @@
 
 <!--**JosephPolaski/JosephPolaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-🖥️ I recently completed my Bachelor's Degree in Computer Science at Oregon State University!
+🖥️ My name is Joe and I am a Software Engineer
 
-🌳 I also have one in Forest Science from Penn State and I worked as a Forester and Wildland Firefighter for the past 9 years, until I recentley transitioned into Geospatial Analyst position where I can now apply my computer science skills in a professional setting!
+🌳 I also have a degree in in Forest Science and previously worked as a Geospatial Analyst, Forester and Wildland Firefighter for 10 years.
 
-I have an interest in a wide variety of technologies, and I am especially interested in cloud technologies, various geospatial technologies, and autonomous vehicles. I hope to meet like-minded individuals and collaborate on projects that will create a better future!
+I am extremely interested in computer vision and augmented reality, specifically how they might be combined with geospatial data to provide useful tools in the future of natural resource management.
 
 This is my personal portfolio, feel free to checkout my pinned repositories. I am always trying to work on new projects and improve. If you would like to connect, please reach out! My LinkedIn profile link is located under my profile picture also if you would like to connect there!
