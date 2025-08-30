@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <!--**JosephPolaski/JosephPolaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-# Hi there 👋
-
 I’m **Joe**, a **Software Engineer** and **GIS Applications Developer** with a background in **Forest Science**, **Wildland Fire**, **Geospatial Analysis**, and **Embedded Linux Systems**.
 
 💻 **What I Do**  
