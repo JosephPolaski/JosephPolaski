@@ -2,10 +2,18 @@
 
 <!--**JosephPolaski/JosephPolaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-🖥️ My name is Joe and I am a Software Engineer
+# Hi there 👋
 
-🌳 I also have a degree in in Forest Science and previously worked as a Geospatial Analyst, Forester and Wildland Firefighter for 10 years.
+I’m **Joe**, a **Software Engineer** and **GIS Applications Developer** with a background in **Forest Science**, **Wildland Fire**, **Geospatial Analysis**, and **Embedded Linux Systems**.
 
-I am extremely interested in computer vision and augmented reality, specifically how they might be combined with geospatial data to provide useful tools in the future of natural resource management.
+💻 **What I Do**  
+I design and develop **custom GIS solutions** using **C#** and **Python**, focusing on **robust architecture**, **OOP**, and **scalable pipelines**. I **architect and lead high-value, complex software projects** and mentor junior engineers, helping teams deliver **maintainable, high-quality solutions**.
 
-This is my personal portfolio, feel free to checkout my pinned repositories. I am always trying to work on new projects and improve. If you would like to connect, please reach out! My LinkedIn profile link is located under my profile picture also if you would like to connect there!
+🎓 **Learning & Growth**  
+Starting January 2026, I’ll be pursuing a **Master of Science in Computer Science**, concentrating on **Machine Learning** and advanced software systems. I’m expanding my expertise in building **scalable, high-performance software** and exploring ways to apply ML and AI to real-world problems.
+
+🌍 **Why I Do It**  
+I’m passionate about solving **real-world challenges** by combining GIS, software engineering, and AI to help organizations make smarter, data-driven decisions.
+
+🚀 **Let’s Connect**  
+I’m always exploring new projects and technologies. Check out my pinned repositories or reach out; I’d love to connect!
